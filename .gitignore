@@ -1,0 +1,16 @@
+*.wav
+
+# backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/data/extracted/
+backend/data/audio/
+*.pyc
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# misc
+.DS_Store
